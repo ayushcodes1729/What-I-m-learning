@@ -1,6 +1,7 @@
 # What I'm Learning
 
 - Muzer Clone: https://www.youtube.com/watch?v=GhH1QWY6BDc&t=3201s
+- Typescript fundamentals from some oneshot: https://www.youtube.com/watch?v=SpwzRDUQ1GI
 
 
 - Some Important repos About Solana/Web3:
