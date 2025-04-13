@@ -3,7 +3,7 @@
 - Muzer Clone: https://www.youtube.com/watch?v=GhH1QWY6BDc&t=3201s
 
 - Solana: https://solana.com/developers/courses/intro-to-solana/getting-started
-
+- Solana: https://groundzero.superteam.fun/
 - Typescript fundamentals from some oneshot: https://www.youtube.com/watch?v=SpwzRDUQ1GI
 
 
