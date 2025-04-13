@@ -3,6 +3,9 @@
 - Muzer Clone: https://www.youtube.com/watch?v=GhH1QWY6BDc&t=3201s
 
 - Solana: https://solana.com/developers/courses/intro-to-solana/getting-started
+- Solana Bootcamp: https://www.youtube.com/watch?v=amAq-WHAFs8
+- Github / Solana Bootcamp: https://github.com/solana-developers/developer-bootcamp-2024
+- Start Solana : https://startonsolana.com/
 - Solana: https://groundzero.superteam.fun/
 - Typescript fundamentals from some oneshot: https://www.youtube.com/watch?v=SpwzRDUQ1GI
 
