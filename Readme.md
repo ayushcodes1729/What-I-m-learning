@@ -1,8 +1,9 @@
 # What I'm Learning
 
-- Nextjs APIs: https://nextjs.org/blog/building-apis-with-nextjs
-
 - Muzer Clone: https://www.youtube.com/watch?v=GhH1QWY6BDc&t=3201s
+
+- Solana: https://solana.com/developers/courses/intro-to-solana/getting-started
+
 - Typescript fundamentals from some oneshot: https://www.youtube.com/watch?v=SpwzRDUQ1GI
 
 
