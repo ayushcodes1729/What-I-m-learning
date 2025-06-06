@@ -1,10 +1,5 @@
 # What I'm Learning
 
-- Typescript fundamentals from some oneshot: https://www.youtube.com/watch?v=SpwzRDUQ1GI
-
-- Rust fundamentals- Pt.1 : https://www.youtube.com/watch?v=qP7LzZqGh30&t=8s
-- Rust fundamentals- Pt.2 : https://www.youtube.com/watch?v=joCFbTJt0o0&t=85s
-
 - Solana: https://solana.com/developers/courses/intro-to-solana/getting-started
 - Solana Bootcamp: https://www.youtube.com/watch?v=amAq-WHAFs8
 - Github / Solana Bootcamp: https://github.com/solana-developers/developer-bootcamp-2024
