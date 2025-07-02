@@ -3,7 +3,8 @@
 - Solana: https://solana.com/developers/courses/intro-to-solana/getting-started
 - Solana Bootcamp: https://www.youtube.com/watch?v=amAq-WHAFs8
 - Github / Solana Bootcamp: https://github.com/solana-developers/developer-bootcamp-2024
-- Solana: https://groundzero.superteam.fun/
+
+- Tanstack: https://tanstack.com/query/latest/docs/framework/react/overview 
 
 - Some Important repos About Solana/Web3:
 1. [https://github.com/coral-xyz/anchor](https://github.com/coral-xyz/anchor)  
